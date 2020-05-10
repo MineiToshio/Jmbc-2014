@@ -1,5 +1,5 @@
 <?php
-define('TO_EMAIL', '"Sergio Minei" <sminei10@gmail.com>');
+define('TO_EMAIL', '"Juan Loza" <user@gmail.com>');
 
 class Mailer{
 	
