@@ -1,3 +1,3 @@
 # Jmbc 2014
 
-![sc](recursos/sc.png)
+![sc](Recursos/sc.png)
